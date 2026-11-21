@@ -1,0 +1,12 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+lib/
+practica2
+practica2SG
+*.o
+*.a
+*.zip
+.vscode/
+*:Zone.Identifier
